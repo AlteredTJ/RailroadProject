@@ -1,0 +1,18 @@
+Car ID: 3	Pickup: False	  Priority: True	Amount Due: $1150	11/29/2020 2:23:45 PM
+Car ID: 1	Pickup: False	  Priority: False	Amount Due: $750	11/29/2020 2:23:45 PM
+Car ID: 2	Pickup: True	  Priority: False	Amount Due: $1050	11/29/2020 2:23:45 PM
+Car ID: 1	Pickup: False	  Priority: True	Amount Due: $1150	12/2/2020 3:45:21 PM
+Car ID: 1	Pickup: True	  Priority: True	Amount Due: $1450	12/2/2020 3:45:21 PM
+Car ID: 1	Pickup: False	  Priority: True	Amount Due: $1150	12/2/2020 3:45:21 PM
+Car ID: 1	Pickup: False	  Priority: True	Amount Due: $1150	12/2/2020 3:45:21 PM
+Car ID: 1	Pickup: True	  Priority: True	Amount Due: $1450	12/2/2020 3:45:21 PM
+Car ID: 1	Pickup: True	  Priority: True	Amount Due: $1450	12/2/2020 3:45:21 PM
+Car ID: 1	Pickup: False	  Priority: False	Amount Due: $750	12/2/2020 3:45:21 PM
+Car ID: 1	Pickup: True	  Priority: False	Amount Due: $1050	12/2/2020 3:45:21 PM
+Car ID: 1	Pickup: False	  Priority: False	Amount Due: $750	12/2/2020 3:45:21 PM
+Car ID: 1	Pickup: False	  Priority: False	Amount Due: $750	12/2/2020 3:45:21 PM
+Car ID: 1	Pickup: False	  Priority: False	Amount Due: $750	12/2/2020 3:45:21 PM
+
+Car ID: 1	Pickup: False	  Priority: False	Amount Due: $750	12/2/2020 3:45:21 PM
+Car ID: 1	Pickup: False	  Priority: False	Amount Due: $750	12/2/2020 3:45:21 PM
+Car ID: 1	Pickup: True	  Priority: False	Amount Due: $1050	12/2/2020 3:45:21 PM
